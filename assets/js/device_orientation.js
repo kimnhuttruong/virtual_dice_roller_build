@@ -35,3 +35,5 @@ if ('permissions' in navigator && 'Accelerometer' in window) {
   } else {
     console.warn('Permissions API or Accelerometer is not supported.');
   }
+
+  
